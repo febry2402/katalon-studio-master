@@ -1,0 +1,202 @@
+{
+    "webui":[
+        {
+            "id": "1",
+            "title": "Create your first Test Case by recorder",
+            "url": "web-ui/webui-create-test-case-by-recorder.md",
+            "icon": "create.png"
+        },
+        {
+            "id": "2",
+            "title": "Run test and investigate execution result",
+            "url": "web-ui/webui-run-test-case.md",
+            "icon": "run.png"
+        },
+        {
+            "id": "3",
+            "title": "Plan your test by using Test Suite",
+            "url": "shared-tutorials/plan-test-suite.md",
+            "icon": "plan.png"
+        },
+        {
+            "id": "4",
+            "title": "Execute a Test Suite",
+            "url": "web-ui/webui-run-test-suite.md",
+            "icon": "run.png"
+        },
+        {
+            "id": "5",
+            "title": "View execution log",
+            "url": "shared-tutorials/view-execution-log.md",
+            "icon": "view.png"
+        },
+        {
+            "id": "6",
+            "title": "Test Suite Report",
+            "url": "shared-tutorials/test-suite-report.md",
+            "icon": "report.png"
+        },
+        {
+            "id": "7",
+            "title": "What's next?",
+            "url": "shared-tutorials/what-is-next.md",
+            "icon": "view.png"
+        }
+    ],
+    "api":[
+        {
+            "id": "1",
+            "title": "Import test requests",
+            "url": "api/api-import-request.md",
+            "icon": "import.png"
+        },
+        {
+            "id": "2",
+            "title": "Validate your test requests",
+            "url": "api/api-validate-request.md",
+            "icon": "validate.png"
+        },
+        {
+            "id": "3",
+            "title": "Create your first test case",
+            "url": "api/api-create-test-case.md",
+            "icon": "create.png"
+        },
+        {
+            "id": "9",
+            "title": "Run test and investigate execution result",
+            "url": "api/api-run-test-case.md",
+            "icon": "run.png"
+        },
+        {
+            "id": "5",
+            "title": "Plan your test by using Test Suite",
+            "url": "shared-tutorials/plan-test-suite.md",
+            "icon": "plan.png"
+        },
+        {
+            "id": "6",
+            "title": "Execute a Test Suite",
+            "url": "api/api-run-test-suite.md",
+            "icon": "execute.png"
+        },
+        {
+            "id": "7",
+            "title": "View execution log",
+            "url": "shared-tutorials/view-execution-log.md",
+            "icon": "view.png"
+        },
+        {
+            "id": "8",
+            "title": "Test Suite Report",
+            "url": "shared-tutorials/test-suite-report.md",
+            "icon": "report.png"
+        },
+        {
+            "id": "9",
+            "title": "What's next?",
+            "url": "shared-tutorials/what-is-next.md",
+            "icon": "view.png"
+        }
+    ],
+    "mobile": [
+        {
+            "id": "1",
+            "title": "Set up for Mobile Testing",
+            "url": "mobile/mobile-setup.md",
+            "icon": "setup.png"
+        },
+        {
+            "id": "2",
+            "title": "Create your first test case by recording",
+            "url": "mobile/mobile-create-test-case.md",
+            "icon": "create.png"
+        },
+        {
+            "id": "3",
+            "title": "Run test and investigate execution result",
+            "url": "mobile/mobile-run-test-case.md",
+            "icon": "run.png"
+        },
+        {
+            "id": "4",
+            "title": "Plan your test by using Test Suite",
+            "url": "shared-tutorials/plan-test-suite.md",
+            "icon": "plan.png"
+        },
+        {
+            "id": "5",
+            "title": "Execute a Test Suite",
+            "url": "mobile/mobile-run-test-suite.md",
+            "icon": "execute.png"
+        },
+        {
+            "id": "6",
+            "title": "View execution log",
+            "url": "shared-tutorials/view-execution-log.md",
+            "icon": "view.png"
+        },
+        {
+            "id": "7",
+            "title": "Test Suite Report",
+            "url": "shared-tutorials/test-suite-report.md",
+            "icon": "report.png"
+        },
+        {
+            "id": "8",
+            "title": "What's next?",
+            "url": "shared-tutorials/what-is-next.md",
+            "icon": "view.png"
+        }
+    ],
+    "desktop": [
+        {
+            "id": "1",
+            "title": "Set up WinAppDriver",
+            "url": "desktop/windows-setup.md",
+            "icon": "setup.png"
+        },
+        {
+            "id": "2",
+            "title": "Create your first test case by recording",
+            "url": "desktop/windows-create-test-case.md",
+            "icon": "create.png"
+        },
+        {
+            "id": "3",
+            "title": "Run test and investigate execution result",
+            "url": "desktop/windows-run-test-case.md",
+            "icon": "run.png"
+        },
+        {
+            "id": "4",
+            "title": "Plan your test by using Test Suite",
+            "url": "shared-tutorials/plan-test-suite.md",
+            "icon": "plan.png"
+        },
+        {
+            "id": "5",
+            "title": "Execute a Test Suite",
+            "url": "desktop/windows-run-test-suite.md",
+            "icon": "execute.png"
+        },
+        {
+            "id": "6",
+            "title": "View execution log",
+            "url": "shared-tutorials/view-execution-log.md",
+            "icon": "view.png"
+        },
+        {
+            "id": "7",
+            "title": "Test Suite Report",
+            "url": "shared-tutorials/test-suite-report.md",
+            "icon": "report.png"
+        },
+        {
+            "id": "8",
+            "title": "What's next?",
+            "url": "shared-tutorials/what-is-next.md",
+            "icon": "view.png"
+        }
+    ]
+}
